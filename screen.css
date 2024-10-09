@@ -1,0 +1,18 @@
+body{
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+    border-top: 15px solid #424242;
+    margin: 0;
+    color: #424242;
+
+}
+
+h1{
+    background-image: url('images/amon-ra.jpg');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: center left;
+    font-size: 3em;
+    padding-left: 55px;
+    margin: 100px 0 25px 0;
+}
