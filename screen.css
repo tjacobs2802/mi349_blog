@@ -10,6 +10,9 @@ body{
 main{
     margin: 0 auto;
     width: 1400px;
+}
+
+img{
     border-radius: 25px;
 }
 
