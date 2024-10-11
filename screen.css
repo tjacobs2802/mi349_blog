@@ -10,9 +10,6 @@ body{
 main{
     margin: 0 auto;
     width: 1400px;
+    border-radius: 25px;
 }
 
-.post1 section.davante{
-    background-image: url(images/davante.jpg);
-    height: 10%;
-}
