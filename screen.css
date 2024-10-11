@@ -11,3 +11,9 @@ main{
     margin: 0 auto;
     width: 1400px;
 }
+
+img{
+    width: 80%;
+    height: 80%
+}
+
