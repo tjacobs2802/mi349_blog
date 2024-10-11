@@ -12,9 +12,7 @@ main{
     width: 1400px;
 }
 
-img{
-    padding: 25px;
-    width: 500px;
-    height: 500px;
+.davante{
+    background: no-repeat bottom/cover url(/images/davante.jpg);
+    border-radius: 20px;
 }
-
