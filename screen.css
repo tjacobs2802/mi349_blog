@@ -12,8 +12,6 @@ main{
     width: 1400px;
 }
 
-.davante{
-    background: no-repeat bottom/cover url(/images/davante.jpg);
-
-    border-radius: 20px;
+.post1 section.davante{
+    height: 10%;
 }
