@@ -1,5 +1,13 @@
+body{
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    color: #424242;
+}
+
 #pictures{
     width: 1200px;
     height: 800px;
+    border-radius: 25px;
 }
 
