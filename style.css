@@ -19,11 +19,11 @@ h2{
     color: cyan;
 }
 
-#post{
+#blog{
     border-top: 1px dotted #fff;
 }
 
-.content-one{
+.blog-post{
     border-bottom: 1px dotted #fff;
 }
 
