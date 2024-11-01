@@ -5,13 +5,16 @@
 }
 
 body{
-    background: #fff;
+    background: lightcoral;
     font-family: Helvetica, sans-serif;
     border-top: px solid #424242;
     margin: 0 auto;
     width: 1400px;
-    color: #424242;
+    color: black;
+}
 
+h2{
+    color: teal;
 }
 
 
