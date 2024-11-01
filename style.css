@@ -26,7 +26,7 @@ h3{
 
 #blog{
     border-top: 1px dotted #fff;
-    display: flex;
+
 }
 
 #about{
@@ -39,6 +39,7 @@ h3{
 
 .blog-post{
     border-bottom: 1px dotted #fff;
+    display: flex;
 }
 
 #davante{
