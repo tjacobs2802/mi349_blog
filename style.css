@@ -26,6 +26,7 @@ h3{
 
 #blog{
     border-top: 1px dotted #fff;
+    display: flex;
 }
 
 #about{
