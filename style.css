@@ -61,7 +61,13 @@ h3{
     float: left;
 }
 
-.list{
+#list{
     position: relative;
     left: 25px;
 }
+
+article{
+    background: #fff;
+}
+
+article:nth-of-type(1){}
