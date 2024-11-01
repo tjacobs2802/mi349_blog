@@ -93,4 +93,5 @@ article:nth-of-type(2){
 
 #table, th, td{
     border: 1px solid;
+    width: 100px;
 }
