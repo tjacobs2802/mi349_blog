@@ -37,3 +37,9 @@ h2{
     width: 1200px;
     height: 800px;
 }
+
+#nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
