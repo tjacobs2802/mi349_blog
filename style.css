@@ -5,16 +5,16 @@
 }
 
 body{
-    background: lightcoral;
+    background: #030C36;
     font-family: Helvetica, sans-serif;
-    border-top: px solid #424242;
+    border-top: 10px solid #fff;
     margin: 0 auto;
     width: 1400px;
-    color: black;
+    color: #fff;
 }
 
 h2{
-    color: teal;
+    color: cyan;
 }
 
 
