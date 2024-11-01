@@ -20,6 +20,10 @@ h2{
     color: cyan;
 }
 
+h3{
+    color: cyan;
+}
+
 #blog{
     border-top: 1px dotted #fff;
 }
