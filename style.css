@@ -90,3 +90,7 @@ article:nth-of-type(2){
     position: relative;
     top: 15px;
 }
+
+#table, th, td{
+    border: 1px solid;
+}
