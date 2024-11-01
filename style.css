@@ -1,8 +1,11 @@
 body{
     background: #fff;
     font-family: Helvetica, sans-serif;
-    margin: 0;
+    border-top: px solid #424242;
+    margin: 0 auto;
+    width: 1400px;
     color: #424242;
+
 }
 
 #pictures{
