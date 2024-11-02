@@ -1,7 +1,6 @@
 body{
     background: #515770;
     font-family: Helvetica, sans-serif;
-    border-top: 10px solid #fff;
     margin: 40px;
     padding: 40px;
     color: white;
@@ -33,13 +32,6 @@ h3{
     border-bottom: 1px dotted #fff;
 }
 
-#about{
-    border-top: 1px dotted #fff;
-}
-
-#contact{
-    border-top: 1px dotted #fff;
-}
 
 .blog-post{
     border-bottom: 1px dotted #fff;
@@ -78,6 +70,7 @@ article{
     color: black;
     padding: 20px;
     margin: 20px;
+    border-radius: 20px;
 }
 
 article:nth-of-type(1){
@@ -100,4 +93,11 @@ article:nth-of-type(2){
 
 #site-title{
     color: rgb(9, 18, 44);
+    background: #fff;
+    padding: 5px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 10px;
+    
 }
+
