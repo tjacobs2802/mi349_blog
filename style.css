@@ -1,5 +1,5 @@
 body{
-    background: #030C36;
+    background: #515770;
     font-family: Helvetica, sans-serif;
     border-top: 10px solid #fff;
     margin: 40px;
@@ -17,11 +17,11 @@ p{
 }
 
 h2{
-    color: cyan;
+    color: rgb(9, 116, 116);
 }
 
 h3{
-    color: cyan;
+    color: rgb(9, 116, 116);
 }
 
 #blog{
