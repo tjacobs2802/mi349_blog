@@ -102,3 +102,7 @@ article:nth-of-type(2){
     
 }
 
+#c-title{
+    border-bottom: 1px dotted #fff;
+}
+
